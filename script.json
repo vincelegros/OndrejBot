@@ -8,6 +8,11 @@
     "HELL YES!": "Check out this Light & Free advert that ran last year in the UK:\n%[Watch the ad](https://www.youtube.com/watch?v=R3ZmGfIbkxs) %[No, thank you](postback:no_thank_you)",
     "NO, THANK YOU": "I understand, you probably have an ad blocker installed as well. You're killing the industry!!! %[One random fact!](postback:random_fact)",
     "ONE RANDOM FACT!": "Vincent co-wrote a theater play when he was living in Ottawa (long story). The play was quite the success and he won two local awards for it. Check out an old interview if you're interested!\n %[Read the interview](http://ottawafringe.com/2010/06/interview-six-at-home/) %[Learn about Vincent](postback:learn_about_Vincent)",
+    "NOT UNDERSTOOD 1": "hmm I did not catch that - try one of the buttons above in the conversation or say hello to get started \n![what](https://raw.githubusercontent.com/ondrejproch/OndrejBot/master/img/understand2.gif)",
+    "NOT UNDERSTOOD 2": "I can only react to specific things as of now! \n![whatnow](https://raw.githubusercontent.com/ondrejproch/OndrejBot/master/img/understand3.gif)",
+    "NOT UNDERSTOOD 3": "...someone here does not like guidelines hm? \n![whatseriously](https://raw.githubusercontent.com/ondrejproch/OndrejBot/master/img/understand4.gif)",
+    "NOT UNDERSTOOD 4": "By now you just want to see how far this can go on don't you \n![whatsmustang](https://raw.githubusercontent.com/ondrejproch/OndrejBot/master/img/mustang.gif)",
+    "NOT UNDERSTOOD 5": "Listen here is one more gif I like and then either say hello, click the buttons or go to reddit alright?;) \n![whatsgodeater](https://raw.githubusercontent.com/ondrejproch/OndrejBot/master/img/gifanime.gif)",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, LegroBot is back and ready to mingle."
 }
