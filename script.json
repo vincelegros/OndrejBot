@@ -4,7 +4,7 @@
     "TELL HIM": "Let's tweet @ vincelegros so he knows you're in good company with his bot. Here's a tweet that's ready to go: %[Tweet Vincent](http://twitter.com/vincelegros)",
     "I LOVE YOU": "Awwwww! I love you too!",
     "I HATE YOU": "Well...\n![hateyoutoo](http://www.awesomelyluvvie.com/wp-content/uploads/2012/09/tumblr_mb23vpZT301qeogr5o2_250.gif)",
-    "LEARN ABOUT VINCENT": "Vincent is an accomplished account supervisor, working for the WPP network. He currently work on big advertising brand for the Danone Dairy brands. Are you interested in watching his latest campaign? %[Hell yes!](postback:Hell_yes) %[No, thank you!](postback:no_thank_you)",
+    "LEARN ABOUT VINCENT": "Vincent is an accomplished account supervisor, working for the WPP network. He currently works on big advertising campaigns for Danone Dairy brands. Are you interested in watching his latest campaign? %[Hell yes!](postback:Hell_yes) %[No, thank you!](postback:no_thank_you)",
     "HELL YES!": "Check out this Light & Free advert that ran last year in the UK:\n%[Watch the ad](https://www.youtube.com/watch?v=R3ZmGfIbkxs) %[No, thank you](postback:no_thank_you)",
     "NO, THANK YOU": "I understand, you probably have an ad blocker installed as well. You're killing the industry!!! %[One random fact!](postback:random_fact)",
     "ONE RANDOM FACT!": "Vincent co-wrote a theater play when he was living in Ottawa (long story). The play was quite the success and he won two local awards for it. Check out an old interview if you're interested!\n %[Read the interview](http://ottawafringe.com/2010/06/interview-six-at-home/) %[Learn about Vincent](postback:learn_about_Vincent)",
