@@ -58,7 +58,7 @@ module.exports = new Script({
                     incNotUnderstood = true;
                 } else if (!_.has(scriptRules, upperText)) {
                     return bot.setProp("not-understood", notUnderstood + 1).
-                        then(() => bot.say(`My vocabulary is quite limited, sorry!`)).
+                        then(() => bot.say(`I'm sorry but I didn't quite understood that. My maker is still figuring some stuff out about my species.`)).
                         then(() => 'speak');
                 }
 
