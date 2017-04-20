@@ -1,8 +1,14 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Esther, a Product Marketer from San Francisco.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
-    "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
+    "BOT": "Hi there!\nI’m the personal bot of Vincent, an advertising fellow form Paris.\n![vincent](https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAO7AAAAJDMwYmM3NWJmLTY3MTUtNDc5OC1hZTRmLTIxODdiYmIwNjdjOA.jpg)\nWant to learn more about Vincent? %[Learn about Vincent](postback:learn_about_Vincent) %[One random fact!](postback:random_fact)",
+    "HELLO": "Hey, I'm so glad you set LegroBot up! Do you want to tell Vincent that you're talking to me (his bot)? %[Tell him](postback:twitter)",
+    "TELL HIM": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Vincent](http://twitter.com/vincelegros)",
+    "I LOVE YOU": "Awwwww! I love you too!",
+    "I HATE YOU": "Well...[hateyoutoo](http://www.awesomelyluvvie.com/wp-content/uploads/2012/09/tumblr_mb23vpZT301qeogr5o2_250.gif)",
+    "LEARN ABOUT VINCENT": "Vincent is an accomplished account supervisor, working for the WPP network. He currently work on big advertising brand for the Danone Dairy brands. Are you interested in watching his latest campaign? %[Hell yes!](postback:Hell_yes) %[No, thank you!](postback:no_thank_you)",
+    "HELL YES!": "Check out this ad that ran in 2016 for Light & Free in the UK:\n [advert](https://www.youtube.com/watch?v=R3ZmGfIbkxs)",
+    "NO THANK YOU": "I understand, you probably have an ad blocker install..." 
+    "ONE RANDOM FACT 1": "Vincent co-wrote a theater play when he was living in Ottawa (long story). The play was quite the success and he won two local awards for it. Check out an old interview if you're interested! [interview](http://ottawafringe.com/2010/06/interview-six-at-home/)
+    "ONE RANDOM FACT 2": "Vincent's love for the art and shapes knows no borders. He participated in a video clip that got some serious buzz in France (you'll understand why when you watch it). #NSFW [COCHON](https://vimeo.com/40291506)",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back."
+    "DISCONNECT": "Roger that, LegroBot is back and ready to mingle."
 }
