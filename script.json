@@ -1,7 +1,7 @@
 {
     "BOT": "Hi there!\nI’m the personal bot of Vincent, an advertising fellow form Paris.\n![vincent](https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAO7AAAAJDMwYmM3NWJmLTY3MTUtNDc5OC1hZTRmLTIxODdiYmIwNjdjOA.jpg)\nWant to learn more about Vincent? %[Learn about Vincent](postback:learn_about_Vincent) %[One random fact!](postback:random_fact)",
     "HELLO": "Hey, I'm so glad you set LegroBot up! Do you want to tell Vincent that you're talking to me (his bot)? %[Tell him](postback:twitter)",
-    "TELL HIM": "Let's tweet @ vincelegros so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Vincent](http://twitter.com/vincelegros)",
+    "TELL HIM": "Let's tweet @ vincelegros so he knows you're in good company with his bot. Here's a tweet that's ready to go: %[Tweet Vincent](http://twitter.com/vincelegros)",
     "I LOVE YOU": "Awwwww! I love you too!",
     "I HATE YOU": "Well...\n![hateyoutoo](http://www.awesomelyluvvie.com/wp-content/uploads/2012/09/tumblr_mb23vpZT301qeogr5o2_250.gif)",
     "LEARN ABOUT VINCENT": "Vincent is an accomplished account supervisor, working for the WPP network. He currently work on big advertising brand for the Danone Dairy brands. Are you interested in watching his latest campaign? %[Hell yes!](postback:Hell_yes) %[No, thank you!](postback:no_thank_you)",
