@@ -7,7 +7,7 @@
     "LEARN ABOUT VINCENT": "Vincent is an accomplished account supervisor, working for the WPP network. He currently work on big advertising brand for the Danone Dairy brands. Are you interested in watching his latest campaign? %[Hell yes!](postback:Hell_yes) %[No, thank you!](postback:no_thank_you)",
     "HELL YES!": "Check out this ad that ran in 2016 for Light & Free in the UK:\n![advert](https://www.youtube.com/watch?v=R3ZmGfIbkxs)",
     "NO THANK YOU": "I understand, you probably have an ad blocker install...",
-    "RANDOM FACT": "Vincent co-wrote a theater play when he was living in Ottawa (long story). The play was quite the success and he won two local awards for it. Check out an old interview if you're interested!\n![interview](http://ottawafringe.com/2010/06/interview-six-at-home/)",
+    "ONE RANDOM FACT!": "Vincent co-wrote a theater play when he was living in Ottawa (long story). The play was quite the success and he won two local awards for it. Check out an old interview if you're interested!\n![interview](http://ottawafringe.com/2010/06/interview-six-at-home/)",
     "CONNECT ME": "",
     "DISCONNECT": "Roger that, LegroBot is back and ready to mingle."
 }
