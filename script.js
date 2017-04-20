@@ -13,7 +13,7 @@ module.exports = new Script({
 
     start: {
         receive: (bot) => {
-            return bot.say('So you want to learn about Ondrej? Just say hello to get started.')
+            return bot.say('So you want to learn about Vincent? Just say "bot" to get started.')
                 .then(() => 'speak');
         }
     },
@@ -58,7 +58,7 @@ module.exports = new Script({
                     incNotUnderstood = true;
                 } else if (!_.has(scriptRules, upperText)) {
                     return bot.setProp("not-understood", notUnderstood + 1).
-                        then(() => bot.say(`I didn't understand that.`)).
+                        then(() => bot.say(`I'm sorry but I didn't quite understood that. My maker is still figuring some stuff out about my species.`)).
                         then(() => 'speak');
                 }
 
