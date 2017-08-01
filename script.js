@@ -12,8 +12,8 @@ module.exports = new Script({
     },
 
     start: {
-        receive: (bot) => {
-            return bot.say('You are a Space Explorer on your way to the system Solaris XY359. Alas, your ship has been taken over by some terrifying aliens. Say "pod" to start.')
+        receive: (Tarot) => {
+            return bot.say('Bienvenue dans la lecture des cartes du Tarot suivant Alexandro Jodorowsky.')
                 .then(() => 'speak');
         }
     },
